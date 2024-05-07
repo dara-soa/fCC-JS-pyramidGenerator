@@ -2,6 +2,12 @@ const character = "#";
 const count = 8;
 const rows = [];
 
-for ("iterator"; "condition"; "iteration") {
-
+for (let i = 0; i < count; i = i + 1) {
+  rows.push(i);
 }
+
+let result = ""
+
+
+
+console.log(result);
